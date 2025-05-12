@@ -1,5 +1,4 @@
 - 👋 Hi, I’m VaidyaPranav
 - 👀 I’m interested in Full-Stack Development , Open Source Contribution , JavaScript , React.js ,Node.js ,Backend development , web development , Tech Education
 - 🌱 I’m currently learning full-stack development.
-- 💞️ I’m looking to collaborate on @rocket.chat, @AOSSIE ,@EOS Design
 - 📫 How to reach me vaidyapranav987@gmail.com
